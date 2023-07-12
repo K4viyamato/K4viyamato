@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![Header](./mygithub-header-image.png)
 
