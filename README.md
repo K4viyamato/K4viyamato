@@ -2,7 +2,7 @@
 
 ![Header](./mygithub-header-image.png)
 
-<h1 align="center">Hi, I'm Kavindu Hirusha👋</h1>
+<h1 align="center">Hi, I'm a Frontend Developer👋</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
