@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm  from Srilanka<br><br>- 🔭 I’m looking for a internship as a Frontend Developer<br>- 📚 I'm currently learning MERN , React Native , Python<br>- ⚡ In my free time I learn (LOL)</p>
+<p align="left">I'm  from Srilanka<br><br>- 🔭 I’m looking for a internship as a Frontend Developer<br>- 📚 I'm currently learning MERN , React Native , Python<br>- - 👨‍💻 All of my projects are available at [http://bit.ly/Kavindu_Hirusha](http://bit.ly/Kavindu_Hirusha)</p>
 
 ###
 
@@ -73,8 +73,9 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/K4viyamato/K4viyamato/output/snake.svg" alt="Snake animation" />
+<div  align="center">
+<img src="./snake.svg" alt="Snake animation"/>
+</div>
 
 ###
 
