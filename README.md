@@ -34,19 +34,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm  from Srilanka<br><br>- 🔭 I’m looking for a internship as a Frontend Developer<br>- 📚 I'm currently learning MERN , React Native , Python<br>- - 👨‍💻 All of my projects are available at [http://bit.ly/Kavindu_Hirusha](http://bit.ly/Kavindu_Hirusha)</p>
+<p align="center">I'm  from Srilanka<br><br>- 🔭 I’m looking for a internship as a Frontend Developer<br>- 📚 I'm currently learning MERN , React Native , Python<br>- - 👨‍💻 All of my projects are available at <br>http://bit.ly/Kavindu_Hirusha</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
