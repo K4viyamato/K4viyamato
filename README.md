@@ -2,7 +2,7 @@
 
 ![Header](./mygithub-header-image.png)
 
-<h1 align="center">Hi, I'm a Frontend Developer👋</h1>
+<h1 align="center">I'm a Frontend Developer👋</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 
