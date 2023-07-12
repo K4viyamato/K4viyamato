@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
   <img height="150" src="./mygithub-header-image.png"  />
 </div>
@@ -71,13 +74,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/K4viyamato/K4viyamato/output/snake.svg" alt="Snake animation" />
+<img src="./snake.yml" alt="Snake animation" />
 
 ###
 
+
+
 <div align="center">
   <a href="https://open.spotify.com/user/7zomq80bg8q89y7jerxc3osew">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7zomq80bg8q89y7jerxc3osew&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
