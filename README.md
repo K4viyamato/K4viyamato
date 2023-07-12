@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm a Frontend Developer👋</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4viyamato&label=Profile%20views&color=0e75b6&style=flat" alt="k4viyamato" /> </p>
