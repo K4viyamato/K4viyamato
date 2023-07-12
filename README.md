@@ -74,7 +74,7 @@
 
 ###
 
-<img src="./snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/K4viyamato/K4viyamato/output/snake.svg" alt="Snake animation" />
 
 ###
 
