@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./images/mygithub-header-image.png)
+![Header](./mygithub-header-image.png)
 
 <h1 align="center">Hi, I'm Kavindu Hirusha👋</h1>
 <h3 align="center">A passionate frontend developer</h3>
