@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="center">A passionate frontend developer</h1>
+<h1 align="center">A passionate Software developer</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="center">I'm  from Srilanka<br><br>- 🔭 I’m looking for an internship as a Frontend Developer<br>- 📚 I'm currently learning MERN , React Native , Python<br> - 👨‍💻 This is my portfolio :<br>http://bit.ly/Kavindu_Hirusha</p>
+<p align="center">I'm  from Srilanka<br><br>- 🔭 I’m looking for an internship as a Software Developer<br>- 📚 I'm currently learning MERN , React Native , Python<br> - 👨‍💻 This is my portfolio :<br>http://bit.ly/Kavindu_Hirusha</p>
 
 ###
 
