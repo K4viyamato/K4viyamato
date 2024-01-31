@@ -38,7 +38,7 @@
 
 ###
 
-<p align="center">I'm  from Srilanka<br><br>- 🔭 I’m looking for an internship as a Software Developer<br>- 📚 I'm currently learning MERN  Stack & Dev - Ops<br> - 👨‍💻 This is my portfolio :<br>http://bit.ly/Kavindu_Hirusha</p>
+<p align="center">I'm  from Srilanka<br><br>- 🔭 I’m looking for an internship as a Software Developer<br>- 📚 I'm currently learning MERN  Stack & Dev - Ops<br> - 👨‍💻 This is my portfolio :<br>http://bit.ly/kavinduHirusha</p>
 
 ###
 
