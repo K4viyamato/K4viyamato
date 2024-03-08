@@ -81,10 +81,21 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/7zomq80bg8q89y7jerxc3osew">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=7zomq80bg8q89y7jerxc3osew&unique=true" alt="Spotify recently played"  />
   </a>
+</div> -->
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/7zomq80bg8q89y7jerxc3osew">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=7zomq80bg8q89y7jerxc3osew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played"  />
+  </a>
 </div>
+
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7zomq80bg8q89y7jerxc3osew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=7zomq80bg8q89y7jerxc3osew&redirect=true)
+ -->
 
 ###
