@@ -38,7 +38,7 @@
 
 ###
 
-<p align="center">I'm  from Srilanka<br><br>-  Currently employed at AventurIT as a Fullstack Developer<br>- 📚 I'm currently learning MERN  Stack & Dev - Ops<br> - 👨‍💻 This is my portfolio :<br>http://bit.ly/kavinduHirusha</p>
+<p align="center">I'm  from Srilanka<br><br>-  Currently employed at AventureIT<br>- 📚 I'm currently learning MERN  Stack & Dev - Ops<br> - 👨‍💻 This is my portfolio :<br>http://bit.ly/kavinduHirusha</p>
 
 ###
 
