@@ -1,97 +1,126 @@
+<h1 align="center">
+  <img src="https://github.com/K4viyamato/K4viyamato/blob/main/mygithub-header-image.png" alt="K4viyamato" />
+</h1>
 
+<h3 align="center">Front-End Developer at Aventure IT Solution</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K4viyamato&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<div align="center">
-  <img height="150" src="./mygithub-header-image.png"  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=K4viyamato&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/K4viyamato/count.svg?"  />
-</div>
+### 👋 About Me
+Hey there! I’m **Kavindu Hirusha**, AKA **K4viyamato** a passionate **Front-End Developer** with over **2 years of hands-on experience** building clean, dynamic, and scalable user interfaces.
 
-###
+I focus on creating fast, responsive, and visually engaging web experiences that blend **design precision** with **code efficiency**.  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kavindu-hirusha-5628b1188" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/KavinduHirush" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="klazarush@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://t.me/Kavi_yamato" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+- ⚡ Skilled in building **modern, responsive, and component-based UIs**
+- 🌱 Currently exploring **Convex** for real-time data and backend simplification
+- 🧠 Interested in **Web Performance**, **Animation**, and **UX micro-interactions**
+- 👯 Open to working with **global clients** and **SaaS product teams**
+- 💬 Ask me about **React, Next.js, Node.js, Tailwind CSS, and scalable front-end architecture**
+- 🎯 Goal: To craft digital experiences that feel fast, fluid, and beautiful
+- 📫 Reach me at →  
+  ![email](https://user-images.githubusercontent.com/49220298/174732716-3a747e8e-4be8-4eec-856a-6a7808d97839.png) **kavinduhirushakarunarathna@gmail.com**
 
-###
+---
 
-<h1 align="center">A passionate Software developer</h1>
+### ⚙️ My Development Stack
 
-###
+#### 🧩 Front-End
+`React` · `Next.js` · `TypeScript` · `JavaScript (ES6+)` · `Tailwind CSS` · `Material UI` · `Sass` · `Ant Design`
 
-<h3 align="center">👩‍💻  About Me</h3>
+#### 🧠 Backend / Database
+`Node.js` · `MongoDB` · `Convex`
 
-###
+#### 🛠️ Tools & Workflow
+`Git` · `GitHub` · `Vite` · `Figma` · `Vercel` · `VS Code` · `Postman`
 
-<p align="center">I'm  from Srilanka<br><br>-  Currently employed at AventureIT<br>- 📚 Currently learning Nestjs & Dev - Ops<br> - 👨‍💻 This is my portfolio :<br>http://bit.ly/kavinduHirusha</p>
+---
 
-###
+### 🧠 My Skills
+![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,express,nodejs,vercel,tailwind,css,html,mongodb,github,figma,vscode)
 
-<h3 align="center">🛠 Language and tools</h3>
+---
 
-###
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=K4viyamato&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=K4viyamato&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4viyamato&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+---
 
-###
+### 💼 Portfolio Projects
 
-<h3 align="center">🔥   My Stats :</h3>
+#### 🌐 Company & Client Projects
 
-###
+- 🏢 **[Pristyn Holdings](https://pristyn.lk/)**  
+  Your trusted partner in delivering comprehensive, end-to-end solutions across multiple industries.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=K4viyamato&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- 🇬🇧 **[Nimgel UK Ltd](https://nimgel.vercel.app/)**  
+  Your trusted partner for UK and European sourcing, with local delivery expertise in Sri Lanka.
 
-###
-<div  align="center">
-<img src="./snake.svg" alt="Snake animation"/>
-</div>
+- 🎓 **[EduMigrate](https://edu-migrate-ojdm.vercel.app/)**  
+  Helping hundreds of students achieve their dreams of studying in Europe with tailored, personalized guidance.
 
-###
+- 💻 **[ClustersFive](https://clluster-five.vercel.app/)**  
+  A forward-thinking IT company crafting scalable digital products — from SaaS to FinTech and e-commerce.
 
+- 🍹 **[Max Beverages](https://max-beverage.vercel.app/)**  
+  Crafting premium beverages with passion, sustainability, and innovation for over a decade.  
+  *(Includes custom CMS platform built for Max Beverages team.)*
 
+- 🌍 **[Ceylon Road](https://www.ceylonroad.net/)**  
+  Connecting skilled professionals with European opportunities since 2010.
 
-<!-- <div align="center">
-  <a href="https://open.spotify.com/user/7zomq80bg8q89y7jerxc3osew">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7zomq80bg8q89y7jerxc3osew&unique=true" alt="Spotify recently played"  />
-  </a>
-</div> -->
+- 💼 **[Yaqeen Capital](https://yaqeen-livid.vercel.app/)**  
+  A secure, step-by-step platform to begin your trading career in the UAE — complete with identity verification, financial, and declaration forms.
 
+- 🍝 **[BRADEM Ristorante](https://bardem-app.vercel.app/)**  
+  Italian fast-food experience from Naples blending creativity, international cuts, and democratic cuisine.
 
+- 🏥 **[Online Doctor Booking Platform](https://onlinebooking-web-development.vercel.app/)** *(in progress)*  
+  Book doctor appointments anytime, anywhere — your health, our priority.
 
+- 💡 **[Solution X](https://solutionx-web.vercel.app/)**  
+  Delivering innovative software solutions that transform businesses and drive growth.
 
+- 🚀 **[OrionUX](https://www.orionux.net/)**  
+  Building intuitive UI/UX and scalable web & mobile apps that merge creativity with technology.
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7zomq80bg8q89y7jerxc3osew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=7zomq80bg8q89y7jerxc3osew&redirect=true)
- -->
+---
 
-###
+#### 💻 Personal Projects
+
+- 🧭 **[Personal Portfolio](https://personal-portfolio-xi-ecru.vercel.app/)**  
+  Hey, I'm Kavindu — a Web Developer passionate about crafting clean, interactive, and scalable digital experiences.  
+  > “I’ve dedicated the past two years to mastering web development and now transitioning from learning to hands-on industrial experience.”
+
+---
+
+### 🧭 What I’m Currently Doing
+- 🌐 Building **front-end systems** for e-commerce and CMS projects  
+- 🧩 Experimenting with **multi-tenant architecture** using **NestJS & MongoDB**  
+- 🎨 Improving UI transitions and motion design with **Framer Motion**  
+- ⚙️ Learning better **CI/CD setups** with GitHub Actions  
+
+---
+
+### ⚡ Fun Facts
+- 💡 I love designing **functional yet aesthetic UIs** — clean layouts are my thing  
+- 🎧 EDM + caffeine = my perfect coding flow  
+- 🧩 I enjoy breaking complex problems into simple, reusable components  
+- 🌍 My dream is to work remotely with international startups and open-source communities  
+
+---
+
+<h3 align="center">✨ Always learning. Always building. Always improving.</h3>
