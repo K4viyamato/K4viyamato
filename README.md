@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/K4viyamato/K4viyamato/blob/main/mygithub-header-image.png" alt="K4viyamato" />
+  <img src="https://github.com/K4viyamato/K4viyamato/blob/main/SCR-20251112-jnua.png" alt="K4viyamato" />
 </h1>
 
 <h3 align="center">Front-End Developer at Aventure IT Solution</h3>
