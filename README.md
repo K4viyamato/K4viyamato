@@ -2,7 +2,7 @@
   <img src="https://github.com/K4viyamato/K4viyamato/blob/main/SCR-20251112-jnua.png" alt="K4viyamato" />
 </h1>
 
-<h3 align="center">Front-End Developer at Aventure IT Solution</h3>
+<h3 align="center">Fullstack Developer at Aventure IT Solution</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K4viyamato&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
