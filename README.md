@@ -63,24 +63,8 @@ I focus on creating fast, responsive, and visually engaging web experiences that
 
 #### 🌐 Company & Client Projects
 
-- 🏢 **[Pristyn Holdings](https://pristyn.lk/)**  
-  Your trusted partner in delivering comprehensive, end-to-end solutions across multiple industries.
-
-- 🇬🇧 **[Nimgel UK Ltd](https://nimgel.vercel.app/)**  
-  Your trusted partner for UK and European sourcing, with local delivery expertise in Sri Lanka.
-
-- 🎓 **[EduMigrate](https://edu-migrate-ojdm.vercel.app/)**  
-  Helping hundreds of students achieve their dreams of studying in Europe with tailored, personalized guidance.
-
 - 💻 **[ClustersFive](https://clluster-five.vercel.app/)**  
   A forward-thinking IT company crafting scalable digital products — from SaaS to FinTech and e-commerce.
-
-- 🍹 **[Max Beverages](https://max-beverage.vercel.app/)**  
-  Crafting premium beverages with passion, sustainability, and innovation for over a decade.  
-  *(Includes custom CMS platform built for Max Beverages team.)*
-
-- 🌍 **[Ceylon Road](https://www.ceylonroad.net/)**  
-  Connecting skilled professionals with European opportunities since 2010.
 
 - 💼 **[Yaqeen Capital](https://yaqeen-livid.vercel.app/)**  
   A secure, step-by-step platform to begin your trading career in the UAE — complete with identity verification, financial, and declaration forms.
