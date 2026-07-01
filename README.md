@@ -15,7 +15,7 @@
 ---
 
 ### 👋 About Me
-Hey there! I’m **Kavindu Hirusha**, AKA **K4viyamato** a passionate **Front-End Developer** with over **2 years of hands-on experience** building clean, dynamic, and scalable user interfaces.
+Hey there! I’m **Kavindu Hirusha**, AKA **K4viyamato** a passionate **Front-End Developer** with over **3 years of hands-on experience** building clean, dynamic, and scalable user interfaces.
 
 I focus on creating fast, responsive, and visually engaging web experiences that blend **design precision** with **code efficiency**.  
 
