@@ -1,6 +1,7 @@
 # K4viyamato
 
- **Agent:** Full-Stack Engineer
+ **Agent:** Full-Stack Developer
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=K4viyamato&theme=neon&mode=light" />
