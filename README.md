@@ -69,14 +69,8 @@ I focus on creating fast, responsive, and visually engaging web experiences that
 - 💼 **[Yaqeen Capital](https://yaqeen-livid.vercel.app/)**  
   A secure, step-by-step platform to begin your trading career in the UAE — complete with identity verification, financial, and declaration forms.
 
-- 🍝 **[BRADEM Ristorante](https://bardem-app.vercel.app/)**  
+- 🍝 **[BRADEM Ristorante](https://bardem.it/)**  
   Italian fast-food experience from Naples blending creativity, international cuts, and democratic cuisine.
-
-- 🏥 **[Online Doctor Booking Platform](https://onlinebooking-web-development.vercel.app/)** *(in progress)*  
-  Book doctor appointments anytime, anywhere — your health, our priority.
-
-- 💡 **[Solution X](https://solutionx-web.vercel.app/)**  
-  Delivering innovative software solutions that transform businesses and drive growth.
 
 - 🚀 **[OrionUX](https://www.orionux.net/)**  
   Building intuitive UI/UX and scalable web & mobile apps that merge creativity with technology.
